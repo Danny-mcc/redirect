@@ -1,0 +1,20 @@
+{
+  "name": "dannymcc/redirect",
+  "description": "Redirect pages.",
+  "keywords": ["laravel", "redirect"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dannymcc",
+      "email": "dan@rocketone.co.uk"
+    }
+  ],
+  "require": {
+    "php": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Dannymcc\\Redirect\\": "src"
+    }
+  }
+}
